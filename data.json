@@ -1,0 +1,19 @@
+{
+    "botones": [
+        {
+            "id": 1,
+            "nombre": "Distancia",
+            "url": "/distance"
+        },
+        {
+            "id": 2,
+            "nombre": "Temperatura",
+            "url": "/temperature"
+        },
+        {
+            "id": 3,
+            "nombre": "Volumen",
+            "url": "/volume"
+        }
+    ]
+}
