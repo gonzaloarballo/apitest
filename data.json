@@ -14,6 +14,36 @@
             "id": 3,
             "nombre": "Volumen",
             "url": "/volume"
+        },
+        {
+            "id": 4,
+            "nombre": "Masa",
+            "url": "/masa"
+        },
+        {
+            "id": 5,
+            "nombre": "Datos",
+            "url": "/datos"
+        },
+        {
+            "id": 6,
+            "nombre": "Velocidad",
+            "url": "/velocidad"
+        },
+        {
+            "id": 7,
+            "nombre": "Tiempo",
+            "url": "/tiempo"
+        },
+        {
+            "id": 8,
+            "nombre": "Area",
+            "url": "/area"
+        },
+        {
+            "id": 9,
+            "nombre": "Porcentaje",
+            "url": "/porcentaje"
         }
     ]
 }
